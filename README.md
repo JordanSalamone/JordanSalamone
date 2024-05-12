@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Jordan!</h1>
+<h1 align="center">Hello there 👋 I'm Jordan!</h1>
 <h3 align="center">A passionate web developer located somewhere on the outer rim 🛸</h3>
 
 
